@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "name": "Magic 8-Ball",
-  "description": "All the answers you could ever need.",
+  "description": "All the answers you ever wanted.",
   "launch_path": "/index.html",
   "icons": {
     "16": "/img/icons/8ball-16.png",
@@ -9,14 +9,14 @@
     "128": "/img/icons/8ball-128.png"
   },
   "developer": {
-    "name": "Fred Wenzel",
-    "url": "http://fredericiana.com"
+    "name": "AVSC",
+    
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/8ball.appcache",
   "locales": {
     "de": {
-      "description": "Alle Antworten, die Sie jemals benötigen könnten."
+      "description": "Magic 8ball"
     }
   },
   "default_locale": "en"
